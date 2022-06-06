@@ -1,4 +1,14 @@
+Local reository
 git init
 git status
 git add .
 git commit -m "comment"
+
+GitHub repository
+create a repository
+git remote add origin https://github.com/AWermeille/My-python-code.git
+
+git push origin master
+
+
+git remote rm origin
