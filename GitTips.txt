@@ -12,3 +12,7 @@ git push origin master
 
 
 git remote rm origin
+to colect code from git hub: 
+git remote add origin https://github.com/banana/minions.git
+
+git clone
